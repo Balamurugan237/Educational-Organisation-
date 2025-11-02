@@ -1,4 +1,5 @@
-# Educational-Organisation- The project “Educational Organisation Using ServiceNow” focuses on developing a digital management system for educational institutions by utilizing the ServiceNow cloud platform. The main goal is to automate and simplify everyday academic and administrative processes such as student management, faculty coordination, and course tracking — all within a single, centralized system.
+# Educational-Organisation- 
+The project “Educational Organisation Using ServiceNow” focuses on developing a digital management system for educational institutions by utilizing the ServiceNow cloud platform. The main goal is to automate and simplify everyday academic and administrative processes such as student management, faculty coordination, and course tracking — all within a single, centralized system.
 
 Traditionally, educational institutions rely on manual processes for handling student records, staff requests, and academic operations. These methods are often time-consuming, error-prone, and lack data transparency. To overcome these challenges, this project uses ServiceNow, a powerful workflow automation platform, to create custom tables, forms, and workflows that digitize and automate these operations.
 
